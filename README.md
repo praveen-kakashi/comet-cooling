@@ -20,3 +20,5 @@ run the notebook oldarch file generator to generate sample trace files within  d
 Extract the contents of zip file TraceBasedDTM-main.zip. Go to TraceBasedDTM-main/Traces_1.8_2.4_3.0_3.6/WorkArea_3.6 and find the various benchmark folders containing the traces. Modify them according to the architecture and copy them into oldarch folder in hotspot_tool and hotspot_tool3. 
 
 
+The files cooling_2.5D_realtime_HMC and cooling_realtime_2.5D_realtime_HBM are the cpdes that implement our cooling strategy.
+
