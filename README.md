@@ -1,2 +1,2 @@
 # comet-cooling
-Thsi repository contains codes for cooling methods 
+This repository contains codes for cooling methods 
